@@ -1,0 +1,11 @@
+StudentID,Name,Math_Score,Science_Score,Attendance
+101,Arjun,85,78,95
+102,Deepa,92,85,98
+103,Sanjay,,80,85
+104,Aditi,88,92,90
+105,Vijay,76,70,80
+106,Manoj,95,,88
+107,Neha,89,88,92
+108,Rohan,,75,87
+109,Priya,82,81,94
+110,Amit,90,84,91
